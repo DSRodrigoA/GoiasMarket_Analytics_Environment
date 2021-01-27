@@ -1,7 +1,7 @@
 # GoiasMarket_Analytics_Environment
-Goiás Market BI and DS analytics environment 
+- Goiás Market BI and DS analytics environment -
 
-Goiás Market - Business Intelligence
+# Goiás Market - Business Intelligence
 
 Este projeto tem o objetivo de simular um ambiente de negócios, representado pelo nome fictício Goiás Market, criando um ciclo de Business Intelligence e colocando 
 as etapas em produção.
